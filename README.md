@@ -6,7 +6,7 @@
 - I am currently building **Dapps**, **Web Apps** and **Backends**
 - I am learning **ZK** and **Cryptogprahy**
 - I am open to **collaborating** on **Open-Source projects**
-- Reach out if you want to talk about or need help in building **Blockchain, Cryptography or Web3**
+- Reach out if you want to talk about or need help in building **Blockchain, Cryptography or Web3 apps**
 
 <h4 align="center">My Stack</h4>
 <h5 align="center">Programming Languages</h5>
