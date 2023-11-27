@@ -3,7 +3,7 @@
 
 <br/>
 
-- I am currently building **Dapps**
+- I am currently building **Dapps**, **Web Apps** and **Backends**
 - I am learning **ZK** and **Cryptogprahy**
 - I am open to **collaborating** on **Open-Source projects**
 - Reach out if you want to talk about or need help in building **Blockchain, Cryptography or Web3**
