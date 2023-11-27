@@ -53,4 +53,4 @@
    <a href="https://github.com/dgraph-io/badger" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/13958706?s=200&v=4" alt="badgerDB" width="50" height="50" /> </a>
 </div>
 </br>
-<br>
+<h4 align="center"><a href="https://www.linkedin.com/in/raadhhaseeb/recent-activity/articles/"  target="_blank" rel="noreferrer">Blogs and Articles</a></h4>
