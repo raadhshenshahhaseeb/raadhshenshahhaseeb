@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haseeb Raja</h1>
+<h1 align="center">Hey 👋, I'm Haseeb Raja</h1>
 <h3 align="center">I am a Blockchain/Golang developer</h3>
 
 <br/>
