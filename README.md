@@ -49,7 +49,7 @@
     </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="50" height="50" /> </a>
         <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" alt="sqlite" width="80" height="50" /> </a>
-          <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--aRUcgIit--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/9ap9hajvjsy52hwvv94z.png" alt="clickhouse" width="80" height="50" /> </a>
+          <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" alt="clickhouse" width="80" height="50" /> </a>
    <a href="https://github.com/dgraph-io/badger" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/13958706?s=200&v=4" alt="badgerDB" width="50" height="50" /> </a>
 </div>
 </br>
